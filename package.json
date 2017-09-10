@@ -1,0 +1,14 @@
+{
+  "name": "electron-hungarian-new-tab",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
+}
